@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+     box-sizing: border-box;
+}
+.circle{
+    border: 15px solid  gray ;
+    /* background-color: blue; */
+    border-top: 15px solid blue ;
+    animation: ani 1s linear infinite ;
+}
+@keyframes  ani {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+
