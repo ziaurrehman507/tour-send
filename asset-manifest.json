@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tour-send/static/css/main.46fd0f26.css",
-    "main.js": "/tour-send/static/js/main.cba68159.js",
+    "main.js": "/tour-send/static/js/main.5e42a177.js",
     "index.html": "/tour-send/index.html",
     "main.46fd0f26.css.map": "/tour-send/static/css/main.46fd0f26.css.map",
-    "main.cba68159.js.map": "/tour-send/static/js/main.cba68159.js.map"
+    "main.5e42a177.js.map": "/tour-send/static/js/main.5e42a177.js.map"
   },
   "entrypoints": [
     "static/css/main.46fd0f26.css",
-    "static/js/main.cba68159.js"
+    "static/js/main.5e42a177.js"
   ]
 }
